@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://mayflyshare.com/</loc>
-<lastmod>2016-01-05T00:19:16-00:00</lastmod>
+<lastmod>2016-01-11T05:25:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/archives.html</loc>
-<lastmod>2016-01-05T00:19:16-00:00</lastmod>
+<lastmod>2016-01-11T05:25:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/tags.html</loc>
-<lastmod>2016-01-05T00:19:16-00:00</lastmod>
+<lastmod>2016-01-11T05:25:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/categories.html</loc>
-<lastmod>2016-01-05T00:19:16-00:00</lastmod>
+<lastmod>2016-01-11T05:25:10-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://mayflyshare.com/e2s-v-0.0.5</loc>
+<lastmod>2016-01-11T04:42:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -47,28 +54,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://mayflyshare.com/category/software.html</loc>
-<lastmod>2015-12-24T00:04:00+00:09</lastmod>
+<lastmod>2016-01-11T04:42:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/tag/music.html</loc>
-<lastmod>2015-12-24T00:04:00+00:09</lastmod>
+<lastmod>2016-01-11T04:42:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/tag/e2s.html</loc>
-<lastmod>2015-12-24T00:04:00+00:09</lastmod>
+<lastmod>2016-01-11T04:42:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://mayflyshare.com/author/jonathan-taquet</loc>
-<lastmod>2015-12-24T00:04:00+00:09</lastmod>
+<lastmod>2016-01-11T04:42:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

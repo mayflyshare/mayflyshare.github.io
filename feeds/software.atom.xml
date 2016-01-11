@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mayfly Share</title><link href="http://mayflyshare.com/" rel="alternate"></link><link href="http://mayflyshare.com/feeds/software.atom.xml" rel="self"></link><id>http://mayflyshare.com/</id><updated>2015-12-16T01:00:00+01:00</updated><entry><title>An e2sSample.all editor with slice support for Korg electribe sampler</title><link href="http://mayflyshare.com/e2s-all-edit" rel="alternate"></link><updated>2015-01-03T18:10:00+01:00</updated><author><name>Jonathan Taquet</name></author><id>tag:mayflyshare.com,2015-12-24:e2s-all-edit</id><summary type="html">&lt;h1 id="here-it-is"&gt;Here it is!&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mayfly Share</title><link href="http://mayflyshare.com/" rel="alternate"></link><link href="http://mayflyshare.com/feeds/software.atom.xml" rel="self"></link><id>http://mayflyshare.com/</id><updated>2016-01-11T04:42:00+01:00</updated><entry><title>Oe2sSLE release 0.0.5</title><link href="http://mayflyshare.com/e2s-v-0.0.5" rel="alternate"></link><updated>2016-01-11T04:42:00+01:00</updated><author><name>Jonathan Taquet</name></author><id>tag:mayflyshare.com,2016-01-11:e2s-v-0.0.5</id><summary type="html">&lt;p&gt;&lt;a href="http://mayflyshare.com/Oe2sSLE"&gt;Oe2sSLE release 0.0.5 is now available.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fixes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scroll bar view point of sample editing window is reset to top after the window is closes and re-opened.&lt;/li&gt;
+&lt;li&gt;A sample with a &lt;code&gt;loop start&lt;/code&gt; point different from then &lt;code&gt;end&lt;/code&gt; point is not played by electribe if it is set as a &lt;code&gt;1-shot&lt;/code&gt; sample. Editor automatically resets the &lt;code&gt;1-shot&lt;/code&gt; value if &lt;code&gt;loop start&lt;/code&gt; point of the sample is set differently of the &lt;code&gt;end&lt;/code&gt; point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cleaning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Some printed traces of variables have been removed.&lt;/li&gt;
+&lt;li&gt;Warning messages printed by pyglet when playing sounds have been disabled.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="e2s"></category><category term="music"></category></entry><entry><title>An e2sSample.all editor with slice support for Korg electribe sampler</title><link href="http://mayflyshare.com/e2s-all-edit" rel="alternate"></link><updated>2015-01-03T18:10:00+01:00</updated><author><name>Jonathan Taquet</name></author><id>tag:mayflyshare.com,2015-12-24:e2s-all-edit</id><summary type="html">&lt;h1 id="here-it-is"&gt;Here it is!&lt;/h1&gt;
 &lt;p&gt;This is a first release of my editor for electribe sample.&lt;/p&gt;
 &lt;p&gt;If you are running windows, you are lucky: you can make a try.
 Today I just publish an executable snapshot of the editor, compiled for windows.&lt;/p&gt;
